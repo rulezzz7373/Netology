@@ -11,6 +11,10 @@
 3. Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта ```go test .``` и  ```docker build .```.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/d9dd1731-1ba9-4d33-9b3c-ac5313ec3275)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/33f8e976-a85d-4028-b3be-1b514e8cbee8)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/f45c99dc-b12f-412b-9cce-c698b7f5bda6)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/94c7ab88-40ad-4996-aebd-f5b6234d459d)
 
 
 ---
