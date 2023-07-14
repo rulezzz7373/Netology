@@ -27,6 +27,9 @@
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/63030b99-4524-4b72-9b4a-81b65cdfcf0a)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/08440b57-5fea-4edb-a507-5348aa744971)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/a8865026-1f9e-4c41-81bd-229e41042247)
 
 ---
 
