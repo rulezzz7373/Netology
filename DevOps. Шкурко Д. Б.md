@@ -43,3 +43,12 @@
 1. Загрузите файл в репозиторий с помощью jenkins.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/55fdc0df-ddcb-4012-82db-faa88f625b8e)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/7a75984f-1df2-47cc-8c77-0b0fbae644a3
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/2fdf44b6-fd6b-4760-8e23-b4e055c2911b)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/93fab1b1-b089-4309-b1d1-4b8c87eca330)
+
+
+
+
+
