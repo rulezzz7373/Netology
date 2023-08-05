@@ -9,6 +9,10 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/dfbcb7fa-aa86-4db3-8285-4f9a5dbd7194)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/b7880427-276e-4e61-9d91-0726dd6cbd23)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/0d1b7c4d-f509-4288-9074-9513a0a494f5)
+     
 
  ---
 
@@ -39,6 +43,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/9f9540ef-83b6-4228-a2aa-7f6c3e5de08d)
 
  ---
 
@@ -52,5 +57,6 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/d8d6739f-5b03-4b1d-8d92-8adbae086306)
 
  ---
