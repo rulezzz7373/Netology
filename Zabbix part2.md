@@ -10,7 +10,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 ![image](https://github.com/rulezzz7373/Netology/assets/138396672/dfbcb7fa-aa86-4db3-8285-4f9a5dbd7194)
-![image](https://github.com/rulezzz7373/Netology/assets/138396672/13994179-0744-4fa0-ae1a-8d785d1870fe)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/b792e08f-0acc-43cd-9013-02d308717bfb)
 ![image](https://github.com/rulezzz7373/Netology/assets/138396672/0d1b7c4d-f509-4288-9074-9513a0a494f5)
      
 
