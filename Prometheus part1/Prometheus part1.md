@@ -25,6 +25,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/a5742a55-d03f-4036-81cc-9195a3df46fc)
 
 ---
 
@@ -40,6 +41,8 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/dc75fd39-b565-448b-b857-9106900d9477)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/1c19f45e-ca2c-4e88-9c3b-98da8aa0d1a8)
 
 ---
 ## Дополнительные задания со звёздочкой*
@@ -52,6 +55,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/c1b9a770-823b-4ce4-95f5-9b8c4209cf30)
 
 ---
 
@@ -60,6 +64,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/2a957c8d-3dd5-4841-b7ac-0108c345b281)
 
 ## Критерии оценки
 1. Выполнено минимум 3 обязательных задания
