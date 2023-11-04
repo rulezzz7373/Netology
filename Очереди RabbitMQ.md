@@ -58,6 +58,9 @@ $ cat /etc/hosts
 ```shell script
 $ rabbitmqctl cluster_status
 ```
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/f208f1dd-f7fa-4102-b38b-c1e33087e48d)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/eea606d1-8e1d-4bc6-a2bd-07daa365ac32)
+
 
 Для закрепления материала снова запустите скрипт producer.py и приложите скриншот выполнения команды на каждой из нод:
 
