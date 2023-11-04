@@ -27,8 +27,9 @@ $ pip install pika
 *В качестве решения домашнего задания приложите оба скриншота, сделанных на этапе выполнения.*
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
-![image](https://github.com/rulezzz7373/Netology/assets/138396672/db934569-23c9-40f2-a1c7-c1d6ad8a7ec1)
-![image](https://github.com/rulezzz7373/Netology/assets/138396672/c133dca6-47c7-48d7-82ea-836c05ce93ce)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/4a35ae6e-0475-4e1f-a674-73e81ab2ff3c)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/5364d898-44f9-456a-bb9d-def9b1602303)
+
 
 ---
 
