@@ -4,7 +4,8 @@
 Добавьте management plug-in и зайдите в веб-интерфейс.
 
 *Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.*
-![image](https://github.com/rulezzz7373/Netology/assets/138396672/bcbb0edf-2363-4e20-86d7-834aea0fa848)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/99343f2a-901c-46a7-b74f-ee1140d8b2a6)
+
 
 ---
 
