@@ -67,7 +67,11 @@ $ rabbitmqctl cluster_status
 ```shell script
 $ rabbitmqadmin get queue='hello'
 ```
+![Снимок экрана 2023-11-05 105059](https://github.com/rulezzz7373/Netology/assets/138396672/1983f76e-38e0-47b9-aca9-a1def30c5f54)
+![Снимок экрана 2023-11-05 105061](https://github.com/rulezzz7373/Netology/assets/138396672/9f615c01-22f5-46c4-9d74-68f4a6f95df5)
+
 
 После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/14eba601-e167-4226-be73-729c3e78748d)
 
 *Приложите скриншот результата работы второго скрипта.*
