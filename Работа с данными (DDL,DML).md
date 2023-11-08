@@ -27,7 +27,8 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
-![image](https://github.com/rulezzz7373/Netology/assets/138396672/f8cc04d7-36c8-4f1c-a7fd-676431afc44f)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/5d08e50a-eeea-48e6-8290-6b2903469cf8)
+
 CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY '123456';
 
 SELECT user, host FROM mysql.user;
