@@ -10,6 +10,7 @@
 1.4. Дайте все права для пользователя sys_temp. 
 
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/f150204d-f450-4cf4-bda8-98ebda4bc9f7)
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
@@ -24,7 +25,16 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/f8cc04d7-36c8-4f1c-a7fd-676431afc44f)
+CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY '123456';
 
+SELECT user, host FROM mysql.user;
+
+GRANT ALL PRIVILEGES ON *.* TO 'sys_temp'@'localhost';
+
+SHOW GRANTS FOR 'sys_temp'@'localhost';
+
+ALTER USER 'sys_temp'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
 
 ### Задание 2
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
@@ -32,3 +42,22 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 Название таблицы | Название первичного ключа
 customer         | customer_id
 ```
+Название таблицы | Название первичного ключа
+actor            | actor_id
+address          | address_id
+category         | category_id
+city             | city_id
+country          | country_id
+customer         | customer_id
+film             | film_id
+film_actor       | actor_id
+film_actor       | film_id
+film_category    | film_id
+film_category    | category_id
+film_text        | film_id
+inventory        | inventory_id
+language         | language_id
+payment          | payment_id
+rental           | rental_id
+staff            | staff_id
+store            | store_id
