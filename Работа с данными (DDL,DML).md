@@ -11,7 +11,8 @@
 1.4. Дайте все права для пользователя sys_temp. 
 
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
-![image](https://github.com/rulezzz7373/Netology/assets/138396672/f150204d-f450-4cf4-bda8-98ebda4bc9f7)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/cf6b253f-2923-4de0-b26c-77a1e6ee2319)
+
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
