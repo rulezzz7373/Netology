@@ -4,7 +4,8 @@
 1.2. Создайте учётную запись sys_temp. 
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
-![image](https://github.com/rulezzz7373/Netology/assets/138396672/6e65077f-6e19-4237-8f34-3eb3dc423fb4)
+![image](https://github.com/rulezzz7373/Netology/assets/138396672/2a6d2a3c-ebd6-4f13-9744-711e54727a9a)
+
 
 
 1.4. Дайте все права для пользователя sys_temp. 
