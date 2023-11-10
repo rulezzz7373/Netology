@@ -4,6 +4,7 @@
 - фамилия и имя сотрудника из этого магазина;
 - город нахождения магазина;
 - количество пользователей, закреплённых в этом магазине.
+
 select  concat(s.first_name, ' ', s.last_name) as ФИО_сотрудника, ci.city  AS город_магазина, count(c.customer_id) as количество_пользователей
 from staff s
 join store st on s.store_id = st.store_id
@@ -16,6 +17,7 @@ having count(c.customer_id) > 300;
 ### Задание 2
 
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
+
 select count(*) as количество_фильмов
 FROM film
 where length > (select avg(length) from film);
@@ -25,6 +27,7 @@ where length > (select avg(length) from film);
 ### Задание 3
 
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
+
 select date_format(payment_date, '%Y-%m') as месяц, SUM(amount) as сумма_платежей, count(rental_id) AS количество_аренд
 from payment
 group by date_format(payment_date, '%Y-%m')
